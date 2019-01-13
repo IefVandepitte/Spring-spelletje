@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/README.md</file>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/src/java/controller/GameController.java</file>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/web/WEB-INF/jsp/index.jsp</file>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/web/WEB-INF/jsp/rondenForm.jsp</file>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/src/java/domain/Game.java</file>
-            <file>file:/C:/Users/ief/source/repos/WebApps/Game/web/WEB-INF/jsp/spel.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
